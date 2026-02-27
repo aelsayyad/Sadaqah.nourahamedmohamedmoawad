@@ -242,7 +242,7 @@ section h3::before {
 }
 /*** Main section ***/
 .main {
-    background: url(./images/5.jpg) center center/cover no-repeat;
+    background: url(./images/ww.jpg) center center/cover no-repeat;
     padding: 0;
 }
 
@@ -765,4 +765,5 @@ section h3::before {
     .region-card{
         width: 90%;
     }
+
 }
